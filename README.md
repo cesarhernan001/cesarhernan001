@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**cesarhernan001/cesarhernan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e cesar corrales manzano
 
-Here are some ideas to get you started:
+-estou estudando na [laura](https://www.alura.com.br)
+-estou me desenvolvendo na linguagem javaScript
+-utilizo esse espaço para minha organizaçao e compartilhamento dos meus projectos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## você entrar em contacto conmigo 📫
+
+corraleshernacesar@gmail.com
+
+@corraleshernacesar
+
+![](https://media1.tenor.com/m/vXIdHAZRsyQAAAAC/call-peta-animal-rights.gif)
+
