@@ -2,9 +2,9 @@
 
 meu nome e cesar corrales manzano
 
--estou estudando na [laura](https://www.alura.com.br)
--estou me desenvolvendo na linguagem javaScript
--utilizo esse espaço para minha organizaçao e compartilhamento dos meus projectos desenvolvidos 
+- estou estudando na [laura](https://www.alura.com.br)
+- nestou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organizaçao e compartilhamento dos meus projectos desenvolvidos 
 
 ## você entrar em contacto conmigo 📫
 
